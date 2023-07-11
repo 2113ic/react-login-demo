@@ -1,0 +1,33 @@
+a {
+  color: #1890ff;
+  text-decoration: none;
+}
+
+.login-page {
+  width: 264px;
+  margin: 144px auto 0;
+  padding: 32px;
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: var(--shadow);
+
+  .title {
+    height: 42px;
+    margin-bottom: 12px;
+    font-size: 18px;
+  }
+
+  .send-code__btn {
+    width: 100px;
+  }
+
+  .to-right {
+    float: right;
+  }
+}
+
+.login__card {
+  .sign-in__foot {
+    overflow: hidden;
+  }
+}
